@@ -3,4 +3,4 @@
 ## 后端koa
 ## 爬虫node 
 ## 数据库mongodb
-## 网站地址 [PNews](showmylearning.cn)
+## 网站地址 [PNews](http://showmylearning.cn)
